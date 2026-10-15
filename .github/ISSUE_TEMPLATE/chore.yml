@@ -1,0 +1,22 @@
+name: Chore
+description: Maintenance, tooling, refactors, housekeeping
+title: "chore: "
+labels: ["type: chore"]
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: Goal
+      placeholder: "What are we improving and why?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: checklist
+    attributes:
+      label: Checklist
+      placeholder: |
+        - [ ] ...
+        - [ ] ...
+    validations:
+      required: true
