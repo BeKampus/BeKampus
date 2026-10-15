@@ -25,7 +25,7 @@ jobs:
 
       - uses: actions/setup-node@v6
         with:
-          node-version-file: "20" # Usa node-version: "20" si no utilizas archivo .nvmrc
+          node-version: "20"
           cache: pnpm
           cache-dependency-path: pnpm-lock.yaml
 
