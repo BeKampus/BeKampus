@@ -17,3 +17,4 @@ The product definition and initial requirements are documented, and implementati
 - [Product definition](docs/PRODUCT.md): vision, users, core concepts, MVP scope, and product rules.
 - [Requirements](docs/REQUIREMENTS.md): functional requirements, quality constraints, and domain rules.
 - [Architecture](docs/ARCHITECTURE.md): technical principles, logical domains, and conceptual data model.
+- [Development](docs/DEVELOPMENT.md): local setup, environment variables, Supabase integration, database scripts, and quality checks.

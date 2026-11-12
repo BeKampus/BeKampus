@@ -19,5 +19,8 @@
   },
   "rtl": false,
   "menuColor": "default",
-  "menuAccent": "subtle"
+  "menuAccent": "subtle",
+  "registries": {
+    "@supabase": "https://supabase.com/ui/r/{name}.json"
+  }
 }
